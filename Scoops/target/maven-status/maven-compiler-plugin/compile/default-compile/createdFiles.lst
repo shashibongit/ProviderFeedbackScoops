@@ -1,0 +1,5 @@
+com\example\ProviderScoops\ProviderScoopsApplication.class
+com\example\ProviderScoops\Repo\EmployeeRepo.class
+com\example\ProviderScoops\Controller\EmployeeController.class
+com\example\ProviderScoops\Entity\Employee.class
+com\example\ProviderScoops\Service\EmployeeService.class
